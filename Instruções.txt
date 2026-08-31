@@ -1,0 +1,40 @@
+Objetivo: 
+
+Compreender a hierarquia de tags de texto (<h1>, <h2>, <p>, <strong>, <em>), inserção de mídias (<img>) e a criação de hiperlinks que conectam páginas (<a> e <button>). 
+
+Requisitos do Projeto:
+Entrega: enviar link do github.
+Páginas: Criar os arquivos HTML na mesma pasta (index.html, detalhes.html e sobre.html).
+Organização: Criar uma pasta chamada imagens e colocar as imagens em formato .jpg ou .png dentro dessa pasta.
+Acessibilidade: Toda imagem deve ter uma descrição detalhada no atributo alt da imagem.
+Utilizar as tags de formatação de texto listadas abaixo:
+
+Tags - O que faz? 
+<h1> a <h6>: Criam títulos e subtítulos organizados por hierarquia (<h1> é o principal).
+<strong>: Destaca um trecho como importante e aplica negrito.
+<em>: Aplica ênfase semântica ao texto e exibe em italálico.
+<mark>: Aplica um fundo destacado/amarelo sobre o texto.
+<small>: Reduz o tamanho do texto (usado em avisos legais e termos).
+<sub> / <sup>: Formata o texto como subscrito (fórmulas) ou sobrescrito (potências).
+<br>: Insere uma quebra de linha manual dentro do texto.
+<hr>: Cria uma linha horizontal para separar temas visualmente.
+<p>: Define um parágrafo de texto simples.
+O que é para fazer?
+
+=> Escolher uma música que você goste
+A atividade é criar um site apresentando a música, falando do cantor, e exibir imagens que representem eles.
+
+1. Criar a Tela Principal (index.html)
+Esta página representa o ponto de entrada do site.
+
+2. Criar a Tela Secundária (detalhes.html)
+Esta página exibe a informação detalhada e o recurso visual.
+
+3. Criar uma Terceira Tela (sobre.html)
+Esta página exibe informações do aluno (foto, nome, curso, período, link do github e link do linkedin) e adicione um botão para ela voltar na tela principal.
+
+
+
+
+
+
